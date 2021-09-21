@@ -1,0 +1,1 @@
+# troca-de-class-condicional-dinamica-no-vue-3-
